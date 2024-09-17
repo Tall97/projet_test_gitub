@@ -5,6 +5,9 @@ public static void main(String[] args) {
         System.out.println("desole je c que sonou ngua mais cest juste pour taider");
         System.out.println("merci pour ton attention1!!!!");
         System.out.println("JE T'AIME");
+        System.out.println("je taime aussi mais je suis un peux dessus ak sa lay you bari");
+
+
 
 
     }
