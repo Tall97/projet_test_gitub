@@ -4,6 +4,8 @@ public static void main(String[] args) {
         System.out.println("jerttthbh b ");
         System.out.println("desole je c que sonou ngua mais cest juste pour taider");
         System.out.println("merci pour ton attention1!!!!");
+        System.out.println("JE T'AIME");
+
 
     }
 }
